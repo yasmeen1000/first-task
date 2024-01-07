@@ -1,0 +1,12 @@
+branch locally: git branch -d branch-name
+
+branch remotely: git push origin --delete branch-name
+
+
+git tag
+
+
+git tag -d tag-name 
+
+
+git push origin --delete tag-name
