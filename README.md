@@ -1,2 +1,2 @@
 # first-taskk
-![I:\myyprotofolio\WEBSITE-PAG\ABOUT.png]()
+![](I:\myyprotofolio\WEBSITE-PAG\ABOUT.png)
